@@ -1,2 +1,2 @@
 # Pro-c36-Virtual-pet-3
-https://anyakunder.github.io/virtual-pet-3-final/.
+https://diva-k.github.io/virtual-pet-3/.
